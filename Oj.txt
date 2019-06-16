@@ -1,1 +1,2 @@
-Mój pierwszy commit
+Mój  commit
+A to mój commit
